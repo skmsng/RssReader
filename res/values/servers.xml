@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ServiceName">
+		<item >クリック証券　重要なお知らせ</item>
+		<item >クリック証券　ニュース＆トピックス</item>
+		<item >SoftBank：ニュース</item>
+		<item >auトピックス&amp;インフォメーション</item>
+    </string-array>
+    <string-array name="ServiceUrl">
+        <item >http://www.click-sec.com/data/rss/important.xml</item>
+        <item >http://www.click-sec.com/data/rss/news.xml</item>
+        <item >http://mb.softbank.jp/mb/rss/news.rdf</item>
+        <item >http://www.au.kddi.com/info/topics/rss/au_topics.xml</item>
+        
+        
+    </string-array>
+    
+</resources>

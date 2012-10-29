@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:clickable="false"
+        android:text="@string/message_loading"
+        android:textSize="20sp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_weight="1" />
+    
+    <Button 
+        android:id="@+id/button01"
+        android:text="@string/label_refresh"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" />
+
+</LinearLayout>
